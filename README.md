@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```c
+int main()
+```
+```kotlin
+fun main()
+```
 <!--
 **Neutron17/Neutron17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
