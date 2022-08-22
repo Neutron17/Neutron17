@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 High school student
+I use Arch btw
 
 📫 Email adress: sandormatyas17@gmail.com
 <!--
