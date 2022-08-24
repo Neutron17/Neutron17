@@ -4,7 +4,7 @@
 
 🐧 I use Arch btw 🐧
 
-📫 Email adress: sandormatyas17@gmail.com
+📫 Email adress: neutron17771@gmail.com
 <!--
 **Neutron17/Neutron17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
