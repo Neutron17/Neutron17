@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-✝️✴️
-
 🏫 High school student
 
 🐧 I use Arch btw 🐧
